@@ -33,5 +33,4 @@
         'static/description/Screen2.png',
         'static/description/Screen3.png',
     ],
-
 }
