@@ -9,7 +9,7 @@
             <field name="arch" type="xml">
 
                 <field name="vat" position="after">
-                    <field name="company_register"/>
+                    <field name="company_register" attrs="{'invisible': [('company_type', '!=', 'company')] }"/>
                 </field>
 
             </field>
