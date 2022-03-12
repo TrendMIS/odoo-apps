@@ -28,9 +28,5 @@
         'views/res_config_setting_view.xml',
         'views/res_partner_view.xml',
     ],
-    'images': [
-        'static/description/Screen1.png',
-        'static/description/Screen2.png',
-        'static/description/Screen3.png',
-    ],
+    'images': ['static/description/banner.gif'],
 }
