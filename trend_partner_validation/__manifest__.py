@@ -23,7 +23,7 @@
     'category': 'Contacts',
     'depends': ['base_setup'],
     'license': 'LGPL-3',
-    'version': '13.0.1.0.0',
+    'version': '15.0.1.0.0',
     'data': [
         'views/res_config_setting_view.xml',
         'views/res_partner_view.xml',
