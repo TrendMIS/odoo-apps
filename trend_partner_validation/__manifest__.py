@@ -10,8 +10,8 @@
 #################################################################################
 
 {
-    'name': "Partner Validation",
-    'summary': "This App From Trend Company to Validate Fields in Partners",
+    'name': "Contacts Validation",
+    'summary': "This App From Trend Company to Validate Fields in Contacts",
     'description': """
         This module will Validate Those Fields with Option to stop it from Settings: \n
             1- Validate Mobile, Phone.\n
@@ -23,7 +23,7 @@
     'category': 'Contacts',
     'depends': ['base_setup'],
     'license': 'LGPL-3',
-    'version': '1.0',
+    'version': '13.0.1.0.0',
     'data': [
         'views/res_config_setting_view.xml',
         'views/res_partner_view.xml',
